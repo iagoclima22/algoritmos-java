@@ -29,6 +29,7 @@ public class SomaVetores {
 			System.out.println(vetC[i]);
 		}
 
+		sc.close();
 	}
 
 }

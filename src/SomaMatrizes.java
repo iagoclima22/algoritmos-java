@@ -42,5 +42,4 @@ public class SomaMatrizes {
 		
 		sc.close();
 	}
-
 }
